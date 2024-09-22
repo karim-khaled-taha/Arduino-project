@@ -15,6 +15,7 @@ This project showcases my skills in **automation, electronics, and data processi
 [Automated Spectrophotometer Image]![Screenshot 2024-09-18 001353](https://github.com/user-attachments/assets/9f305fe0-3153-4943-8190-d9432be0f198)![IMG_5327](https://github.com/user-attachments/assets/87b54ba5-4f03-4299-9dea-a44ee9f27fb8)!
 ![Screenshot 2024-08-18 223914](https://github.com/user-attachments/assets/cd0a3ff4-433d-4e13-8d19-8166528b4492)!
 ![Screenshot 2024-08-18 223959](https://github.com/user-attachments/assets/7f33ad19-a999-412e-bf5c-1e09b80b731c)
+![Screenshot 2024-08-18 224512](https://github.com/user-attachments/assets/8b34f3b4-0284-431c-baad-3cb36bb5e497)
 
 ##  Project Video:
 [Demo Video](https://github.com/user-attachments/assets/ecb65bc3-4b96-45f7-9ef8-69c97086a424
