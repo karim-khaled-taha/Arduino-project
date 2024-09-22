@@ -1,4 +1,4 @@
-# Incubator Control System
+# Incubator Control System (Team Work)
 
 This project is a simulation of an incubator system using Arduino. The system controls the temperature, displays key parameters on an LCD, and handles user input for adjusting the temperature. It also includes error detection using an LDR sensor and provides feedback using an LED and a buzzer.
 
@@ -47,7 +47,7 @@ Below is an overview of the circuit components connected to the Arduino.
 7. **LDR Sensor**: Connected to pin A5 to detect if the door is open.
 
 ### Schematic
-![Screenshot 2023-05-26 180025](https://github.com/user-attachments/assets/4d171c77-bf29-4ed6-9a00-ae15c7415747)
+![Screenshot 2024-09-22 235137](https://github.com/user-attachments/assets/72ed4e0e-aaca-4c6f-a66b-cc8d5b8186a4)
 
 ![IMG_1495 - Copy1](https://github.com/user-attachments/assets/aa65cd60-60bc-4c2f-826b-92bc856fbe7a)
 
