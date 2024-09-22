@@ -17,10 +17,8 @@ This project showcases my skills in **automation, electronics, and data processi
 ![Screenshot 2024-08-18 223959](https://github.com/user-attachments/assets/7f33ad19-a999-412e-bf5c-1e09b80b731c)
 
 ##  Project Video:
-[Watch the project video]!([https://www.youtube.com/watch?v=your-video-link](https://www.youtube.com/watch?v=your-video-link](https://github.com/user-attachments/assets/97cd4a6d-4245-432f-8b35-046f4fdeffe4
+[Demo Video](https://github.com/user-attachments/assets/ecb65bc3-4b96-45f7-9ef8-69c97086a424
 )
-
-
 
 ## 🔧 Technologies Used:
 - Stepper Motor
