@@ -12,12 +12,16 @@ I'm excited to share my latest project—an **Automated Spectrophotometer** that
 This project showcases my skills in **automation, electronics, and data processing**, and I'm thrilled with the outcome. It was a great learning experience in combining hardware with software to create an efficient and user-friendly system.
 
 ##  Project Image:
-[Automated Spectrophotometer Image]![Screenshot 2024-09-18 001353](https://github.com/user-attachments/assets/9f305fe0-3153-4943-8190-d9432be0f198)
-[IMG_5327](https://github.com/user-attachments/assets/87b54ba5-4f03-4299-9dea-a44ee9f27fb8)
-
+[Automated Spectrophotometer Image]![Screenshot 2024-09-18 001353](https://github.com/user-attachments/assets/9f305fe0-3153-4943-8190-d9432be0f198)![IMG_5327](https://github.com/user-attachments/assets/87b54ba5-4f03-4299-9dea-a44ee9f27fb8)!
+![Screenshot 2024-08-18 223914](https://github.com/user-attachments/assets/cd0a3ff4-433d-4e13-8d19-8166528b4492)!
+![Screenshot 2024-08-18 223959](https://github.com/user-attachments/assets/7f33ad19-a999-412e-bf5c-1e09b80b731c)
 
 ##  Project Video:
-[![Watch the project video](path-to-your-thumbnail.jpg)](https://www.youtube.com/watch?v=your-video-link)
+[![Watch the project video]([path-to-your-thumbnail.jpg)](https://www.youtube.com/watch?v=your-video-link](https://github.com/user-attachments/assets/97cd4a6d-4245-432f-8b35-046f4fdeffe4
+))
+
+
+
 
 > *Click on the thumbnail to watch the video of the project in action.*
 
