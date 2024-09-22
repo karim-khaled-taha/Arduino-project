@@ -1,1 +1,30 @@
+#   Automated Spectrophotometer (Team Work)
 
+I'm excited to share my latest project—an **Automated Spectrophotometer** that brings precision and automation to sample analysis.
+
+##  Project Highlights:
+- **10-Sample Disk**: Our spectrophotometer features a disk holding 10 samples, which is rotated by a stepper motor for sequential analysis.
+- **Precision Measurement**: We measure the concentration of liquid samples by analyzing the transmitted light, ensuring accurate results.
+- **IR Remote Control**: The entire system is controlled via an IR remote, offering convenience and ease of use.
+- **Automated Data Handling**: The results, including sample number and concentration, are automatically saved to an Excel sheet, streamlining data management.
+- **Real-Time Display**: Users can view the results directly on an LCD screen, providing immediate feedback.
+
+This project showcases my skills in **automation, electronics, and data processing**, and I'm thrilled with the outcome. It was a great learning experience in combining hardware with software to create an efficient and user-friendly system.
+
+##  Project Image:
+[Automated Spectrophotometer Image]![Screenshot 2024-09-18 001353](https://github.com/user-attachments/assets/9f305fe0-3153-4943-8190-d9432be0f198)
+[IMG_5327](https://github.com/user-attachments/assets/87b54ba5-4f03-4299-9dea-a44ee9f27fb8)
+
+
+##  Project Video:
+[![Watch the project video](path-to-your-thumbnail.jpg)](https://www.youtube.com/watch?v=your-video-link)
+
+> *Click on the thumbnail to watch the video of the project in action.*
+
+## 🔧 Technologies Used:
+- Stepper Motor
+- IR Remote
+- Excel Automation
+- LCD Display
+
+Looking forward to applying these skills in future projects and continuing to explore the fascinating world of automated systems!
