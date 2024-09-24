@@ -1,8 +1,8 @@
-# 🚗 RC-Car Control Project
+#  RC-Car Control Project (Team Work )
 
 This project involves controlling motors, LEDs, and a horn using an Arduino and Mobile application. The system can move forward, backward, left, right, and diagonally, and it also includes controls for front and back LEDs, a horn, and a set of yellow LEDs that can blink based on user input.
 
-## 🔧 Components:
+##  Components:
 - Arduino board
 - DC motors (2)
 - LEDs (for forward, backward, and yellow blinking)
@@ -12,7 +12,7 @@ This project involves controlling motors, LEDs, and a horn using an Arduino and 
 - bluetooth module
 - Mobile application
 
-## 🚀 Functionalities:
+##  Functionalities:
 1. **Movement**: Control the Car for forward, backward, and directional movements By Mobile application.
 2. **LED Controls**: Turn on and off the front and back LEDs.
 3. **Horn Control**: Toggle the horn on and off using the serial input.
