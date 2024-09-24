@@ -34,26 +34,6 @@ void setup()
 
 void loop()
 {
-  int ldrStatus = analogRead(ldrPin); 
-    Serial.println(ldrStatus);
-  
-   if (ldrStatus >= 1020) {
-
-    digitalWrite(Y_Led_1, HIGH);
-    digitalWrite(Y_Led_2, HIGH);
-    digitalWrite(Y_Led_3, HIGH);
-    digitalWrite(Y_Led_4, HIGH);              
-  
-    
-   }
- else if (ldrStatus <= 1015) {
-
-   digitalWrite(Y_Led_1, LOW);
-   digitalWrite(Y_Led_2, LOW);
-   digitalWrite(Y_Led_3, LOW);
-   digitalWrite(Y_Led_4, LOW);          
-    
-  }
   
   if (IR.decode()) {
     Serial.println(IR.decodedIRData.decodedRawData);
