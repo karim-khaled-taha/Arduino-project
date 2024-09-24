@@ -18,6 +18,8 @@ This project involves controlling motors, LEDs, and a horn using an Arduino and 
 4. **IR Remote**: Serial communication allows control via an IR remote.
 
 ## Demo Video
+https://github.com/user-attachments/assets/0708bc09-6b0e-4388-a3ee-b1fcec3efc22
+
 
 
 
