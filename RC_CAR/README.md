@@ -14,9 +14,8 @@ This project involves controlling motors, LEDs, and a horn using an Arduino and 
 ## 🚀 Functionalities:
 1. **Movement**: Control the motors for forward, backward, and directional movements.
 2. **LED Controls**: Turn on and off the front and back LEDs.
-3. **Yellow LED Blinking**: Blinking yellow lights for indicating a condition.
-4. **Horn Control**: Toggle the horn on and off using the serial input.
-5. **IR Remote**: Serial communication allows control via an IR remote.
+3. **Horn Control**: Toggle the horn on and off using the serial input.
+4. **IR Remote**: Serial communication allows control via an IR remote.
 
 ## Demo Video
 
