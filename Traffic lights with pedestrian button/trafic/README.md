@@ -22,6 +22,5 @@ This project simulates a traffic light system with pedestrian crossing control u
 
 ## Simulation
 
-### Simulation Environment
 - **Software**: [Tinkercad]([https://www.tinkercad.com/](https://www.tinkercad.com/things/6GuXBEefT8O-traffic-lights-with-pedestrian-button/editel?sharecode=5EhVTKDGJFsXZb8ncYfjbS_j5A7uZReOxDUoz8heqfU)) 
 
